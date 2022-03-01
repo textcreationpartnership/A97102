@@ -1,0 +1,564 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A parable, or consultation of physitians vpon Master Edwards. Love. Justice. Patience. Truth. [brace] Doctors. [brace] Conscience. Hope. Piety. Superstition. Policie. [brace] Observers.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97102</idno>
+            <idno type="STC">Wing W686</idno>
+            <idno type="STC">Thomason E359_8</idno>
+            <idno type="STC">ESTC R201169</idno>
+            <idno type="EEBO-CITATION">99861717</idno>
+            <idno type="PROQUEST">99861717</idno>
+            <idno type="VID">160013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160013)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E359[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A parable, or consultation of physitians vpon Master Edwards. Love. Justice. Patience. Truth. [brace] Doctors. [brace] Conscience. Hope. Piety. Superstition. Policie. [brace] Observers.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Paine, for Giles Calvert, and are to be sold at his shop at the Black spread Eagle, at the west end of Pauls Church.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Walwyn by Wing.</note>
+                  <note>A reply to Thomas Edwards.</note>
+                  <note>Annotation on Thomason copy: "Octob: 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, 1599-1647 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160013:1" rendition="simple:additions"/>
+            <p>A PARABLE, OR CONSVLTATION OF PHYSITIANS VPON MASTER EDWARDS.</p>
+            <p>
+               <list>
+                  <head>Doctors.</head>
+                  <item>
+                     <hi>Love.</hi>
+                  </item>
+                  <item>
+                     <hi>Juſtice.</hi>
+                  </item>
+                  <item>
+                     <hi>Patience.</hi>
+                  </item>
+                  <item>
+                     <hi>Truth.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Obſervers.</head>
+                  <item>
+                     <hi>Conſcience.</hi>
+                  </item>
+                  <item>
+                     <hi>Hope.</hi>
+                  </item>
+                  <item>
+                     <hi>Piety.</hi>
+                  </item>
+                  <item>
+                     <hi>Superſtition.</hi>
+                  </item>
+                  <item>
+                     <hi>Policie.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Paine,</hi> for <hi>Giles Calvert,</hi> and are to be ſold at his ſhop at the Black ſpread Eagle, at the weſt end of Pauls Church. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:160013:2"/>
+            <pb facs="tcp:160013:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>EN, for the moſt part,</hi> of all opinions, <hi>are bread up with ſo much feare and ſcrupuloſity, that they no ſooner arive to ſome meaſure of knowledge in their perticular way, but they become meere</hi> Pedants; <hi>fierce and violent cenſurers of all things; they are not accuſtomed to themſelves, inſtantly en<g ref="char:EOLhyphen"/>gaging, and</hi> condemning, <hi>before they have deliberately examined, or maturely debated the thing they judge: which is an evill and unhappy temper of mind, becauſe unſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciable: and proceedeth from want of that generall knowledge, which freedome of conſideration would beget.</hi>
+            </p>
+            <p>
+               <hi>It is therfore worth our labour, to ſtudy how to reduce our minds into the moſt</hi> friendly <hi>diſpoſition, to be ready, and alwayes provided of harmeleſſe and friendly thoughts of men and things, untill evident cauſe appeare to the contra<g ref="char:EOLhyphen"/>ry; not to looke with an evill or a growling eye, as if we deſired to find matter to except againſt it is a ſhrewd</hi> ſigne of deſeaſe, <hi>when the ſtomock hankers after unhol ſome things.</hi>
+            </p>
+            <pb facs="tcp:160013:3"/>
+            <p>
+               <hi>It cannot proceed from</hi> true Religion <hi>rightly underſtood, to beget malancholly, moody, angry, frampoll Imaginations, for that rightly underſtood begets cheerfulneſſe of ſpirit: which is ever accompanied with love, and maketh the beſt conſtruction:</hi> for love thinketh no evill: but hopeth all things: <hi>and is very kind to all men.</hi>
+            </p>
+            <p>
+               <hi>The enſuing diſcourſe, would not need this preparative, but that there is an aptneſſe in the moſt to miſconſter; and a readineſſe to giveeare,</hi> gladly <hi>to</hi> any <hi>that ſhall ſhew either wit, pasſion, or mallice, in finding fault: it is pittie good peo<g ref="char:EOLhyphen"/>ple ſhould ſo eaſily be deluded: or evill men ſo eaſily worke their ends upon them: or good intents be ſo eaſily fruſtrated: the unuſualneſſe of the</hi> Title <hi>and</hi> method <hi>of this diſcourſe will miniſter occaſion to the Weake and to the Perverſe: but if the authority, antiquity and uſe of</hi> Parables, <hi>be conſi<g ref="char:EOLhyphen"/>dered with ſome ingenuity, the Author will not looſe the end of his</hi> diſcourſe, <hi>nor of this</hi> preface, <hi>which is, to worke a<g ref="char:EOLhyphen"/>mendment</hi> in ſome, <hi>where there is cauſe enough.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160013:3"/>
+            <head>A PARABLE. Or Conſultation of Phyſitians upon Maſter EDVVARDS.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>OCTOR Love:</hi> Mr. <hi>Edwards,</hi> I have knowne you long, and have conſidered your complextion, &amp; inclina<g ref="char:EOLhyphen"/>tion; &amp; am no ſtranger to your alterations and changes: your turnings and returnings: your loathing, and a<g ref="char:EOLhyphen"/>gaine liking, one and the ſame thing: and was alwaies willing to have adviſed you, to take ſome fit courſe in time; as be<g ref="char:EOLhyphen"/>ing too well aſſured, you could not but fall into ſome deſperate di<g ref="char:EOLhyphen"/>ſtemper; which now we all ſee hath proved too true: but you ever ſhunned my acquaintance; and at preſent, ſeem ſo little to regard my words, as if you wiſhed my abſence.</p>
+            <p>
+               <hi>Doct. Patience,</hi> Sir, excuſe him, you ſee his diſtemper is very violent.</p>
+            <p>
+               <hi>Doct. Love,</hi> Nay Sir, it moves me nothing; nor ſhall not hin<g ref="char:EOLhyphen"/>der me from doing him all the good I am able.</p>
+            <p>Mr. <hi>Edwards:</hi> Gentlemen, as deſperately violent as you judge my diſtemper; I have not yet loſt the uſe of my ſences, I know you a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l: and have heard Mr. <hi>Loves</hi> wiſe <hi>exordium:</hi> I have known him as long as he has known me, but I was never yet ſo ſimple, as to think him wiſe enough to counſell me, in caſe I had needed any; nor doe I know by what ſtrange meanes, he or any of you <hi>(of his politique tribe)</hi> thus thruſt your ſelves upon my privacy.</p>
+            <p>
+               <hi>Piety,</hi> Sir, it was my care, and their loves that brought them hither for in my apprehenſion, you are in a moſt dangerous condi<g ref="char:EOLhyphen"/>tion: and the more, becauſe you are altogether inſenſible there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f</p>
+            <p>
+               <hi>Truth,</hi> He is either very inſenſible as you ſay, or very obſtinately deſperate.</p>
+            <p>Mr. <hi>Edw.</hi> As for both your judgements, I value them no more
+<pb n="2" facs="tcp:160013:4"/> then I deſire your companies: and as for <hi>you</hi> friend <hi>Piety,</hi> you and I of late have had no ſuch great familiaritie that you ſhould pre<g ref="char:EOLhyphen"/>ſume to be thus officious, and indiſcreetly troubleſome: you ſee I am not friendleſſe, here are friends whoſe friendſhip and counſel I mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>steem: Pray friends, what is your opinion of me, am I not as ſound of wind and limme, as ever I was in my life? have I need think you of the counſell of theſe learned <hi>Doctors</hi> or not?</p>
+            <p>
+               <hi>Superſtition,</hi> Mr. <hi>Edwards,</hi> you know I am your faithfull friend, I have received much good by you, I would not for any thing in the world, the leaſt hurt ſhould befall you: It is from you<g ref="char:punc">▪</g> I have re<g ref="char:EOLhyphen"/>ceived that little knowledge and comfort that I have, for which I have not been unthankfull; if it had not been for you, I might ere this have run into one ſtrange Sect or other, but through your care, I keep cloſe to my owne Church, and to the Churches Doctrine, through which I live quietly, and for which I am reſpected in the place where I live, and may in time be <hi>ſome body</hi> in my pariſh, if not in the City: and therefore I love you; and will be plaine with you: I profeſſe Sir, I judge the Doctors to be very ſimple perſons, for it is as evident, <hi>as the light that is in me,</hi> that you are in as perfect a good condition as I my ſelfe am at this time, and I am confident you will ſay I were very unwiſe, to ask their advice.</p>
+            <p>
+               <hi>Conſcience.</hi> For all this Sir, you muſt know theſe Doctors, are of ap<g ref="char:EOLhyphen"/>proved judgement and fidelity, and how ever you may deſire to be flattered, you very well know, the ignorance and weakneſſe of this your friend <hi>Superſtition,</hi> whom yet you ſooth and keep company with all, and make to much uſe off contrary to my counſell: you were better abandon him, and all the advantages you make of him: and whilſt you have time, give eare to the counſell of theſe Doctors: if you neglect this opportunity, you are likely never to have the like.</p>
+            <p>
+               <hi>Super.</hi> Sir, you are too raſh in judgeing, but Mr. <hi>Edwards</hi> knowes me, and I know him, better then to be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſtranged by you, or any ſuch as you are.</p>
+            <p>
+               <hi>Juſtice.</hi> By your favour Sir, you may ſooner be too raſh then he: for what he hath ſaid wee ſhall find both juſt and true:</p>
+            <p>
+               <hi>Policy.</hi> Truly Mr. <hi>Edwards,</hi> I am glad I have a further occaſion to ſhew my love unto you at this time: you and I for ſome yeares now have been boſome friends; you cannot imagine, I meane any other<g ref="char:EOLhyphen"/>wiſe you, then <hi>your owne heart;</hi> and I muſt needs tell you, I do
+<pb n="3" facs="tcp:160013:4"/> ſee ſome ſymtomes of diſeaſe upon you: but what it is, theſe lear<g ref="char:EOLhyphen"/>ned men can beſt judge: and if I may perſwade with you, you ſhall for your owne good; thankfully except their loves, and ſubmit to their judgements, and directions: but this I muſt alſo ſay, that I evidently ſee there is no cauſe of haſt, ſome few dayes hence may be time e<g ref="char:EOLhyphen"/>nough, in which time, you and I ſhall have ſetled that buſines which you know I am now come about: A work <hi>gentlemen,</hi> that being fini<g ref="char:EOLhyphen"/>ſhed, your ſelves will ſay, was worthy the hazard of his and all our lives; no leſſe then the building of Gods owne houſe. ſweeping out of hereticks &amp; ſchiſmaticks, ſtopping the mouthes of illitterate me<g ref="char:EOLhyphen"/>chanicall preachers: and beautifying this holy building, with the glorious ornament of uniformity, the Mother of peace and all bleſ<g ref="char:EOLhyphen"/>ſed things.</p>
+            <p>And if it will pleaſe theſe worthy Phyſitions, and the reſt of your friends, to give you and I leave for the preſent, to goe on with this pious work, and to repaire to you when you ſhall find cauſe to call upon them I think they ſhall in ſo doing ſhew not only a care of you, but of the whole Church of God: nor ſhall I leave it only to your own care Mr. <hi>Edwards,</hi> for truly <hi>gentlemen,</hi> he is too apt to neglect his health and all that is deare unto him. for the good of his bre<g ref="char:EOLhyphen"/>then: I ſpeake my conſcience and the very truth from my heart and am confident no hurt can come to him, but a great deale of good to the publique; if you allow of this my counſell, and I Judge you ſo prudent and pious, as to preferre the publique, before your owne pri<g ref="char:EOLhyphen"/>vate trouble.</p>
+            <p>
+               <hi>Conſ.</hi> Although (Mr. <hi>Edwards)</hi> when you and I, and your friend <hi>Policy,</hi> are together, and no body elſe, he alwai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s overſwaies you, ever propoſing things ſutable to your corrupted humours, yet now here are others preſent that can impartially judge betwixt us, and therefore I ſhall uſe my accuſtomed plainneſſe, though I have never any thankes for my labour. (Pray Sir, turne not from me, but heare me, and let theſe worthy men judge betwixt my perſwations, and the perſwations of <hi>Pollicy) gentlemen,</hi> I pray obſerve well this dar<g ref="char:EOLhyphen"/>ling of his: This is hee whoſe councell he hath long time followed, he it was that firſt inticed him to undertake this unhappy worke, which contrary to all reaſon and Religion, he calleth the building of Gods houſe, <hi>&amp;c.</hi> though I ſhewed him plainly he went about there<g ref="char:EOLhyphen"/>in to deſtroy the living houſes of God: the vexing and moleſting of
+<pb n="4" facs="tcp:160013:5"/> his moſt deare (becauſe moſt conſciencious and peaceable) ſer<g ref="char:EOLhyphen"/>vants: though I told him plainly, any that differed with him, might as juſtly compell him to conforme unto them, as he could compell them: though I manifeſted that he was as liable to errour, as any that he complained off, and that therefore there was no reaſon why he ſhould endevour to make men odious for opinions: I ſhewed him it was impoſſible, ſo long as knowledge was imperfect, but men muſt d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer: I ſhewed how nevertheleſſe, every man was bound <hi>equally</hi> as himſelf, to worſhip God according to his own and not another mans underſtanding of the word of God. I told him he would bring upon himſelf, the odium of all judicious Religious people.</p>
+            <p>I put him in remembrance, how extreamly he himſelf complai<g ref="char:EOLhyphen"/>ned of compulſion and reſtriction of worſhip; in the Biſhops times: laid before him their miſerable endes, and the great diſturbances, that have ariſen from thence to the Commonwealth, ſhewed how much it tended to deviſion, and confuſion, to ſet up one way of worſhip and to perſecute or diſpiſe all others, that it was not Gods way to bring men to truth by force, but the devills and Antichriſts, to faſten men in errour: that there was no ſin more un<g ref="char:EOLhyphen"/>reaſonable nor more odious in Gods ſight, then to enforce men to pro<g ref="char:EOLhyphen"/>feſſe practice, or worſhip, contrary to knowledge and beleefe: and that to enforce is as juſtly puniſhable by man, as any other vio<g ref="char:EOLhyphen"/>lence.</p>
+            <p>This and much more I told him continually: yet this wretched <hi>Pollicie</hi> finding him ambitious, and covetous, applyed his arguments, to theſe his corruptions; and in an inſtant, ſwayed him into an engagement: for he ſaid no more but this: if <hi>conſcience</hi> heere will undertake to ſecure unto you the honour, domination and profit, due to you as you are a Clergy-man, then follow his councell: but if his, tend to make you eſteemed, but as a lay man, and (not regar<g ref="char:EOLhyphen"/>ding your learning and venerable calling) to mix you amongſt the vulgar, and (in effect) bidds you to labour with your hands the things that are lawfull, that you may no longer be a receiver of tythes, offerings, &amp;c. but from your owne labours and ſweat, to give to them that need: if he bids you, having food and rayment be herewith content: and I ſhew unto you a way to abound with ſuperflueties, like the men of this world, and to have a large ſhare in controwling the unlearned, and ſhall manifeſt unto you the
+<pb n="5" facs="tcp:160013:5"/> defects of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and ſhall ſupply you with rules that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to effect <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then let you and I joyne our force and councell together.</p>
+            <p>And if we do not in the end, ſhall between us all the months wild go resup His world, ſay <hi>Machelet</hi> was not ſo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>natius loyola</hi> the Father of the leſuites: upon this they ſtick hands and over ſuch have plyed their work, and though ſucceſſe hath failed, and thoſe hath produced contrary effect, thoſe increaſing in number, and reputation, whom they labour to ſuppreſſe and defame; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>Edwards</hi> though <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and vex no be fallen into this <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you now ſee him the ſet you ſee this wicked <hi>Polly</hi> labours in a moſt cunning manner to dilwade him from taking you preſent councell, leaſt you ſhould direct him nor his recovery, into ſome ſuch courſe, as would <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his wicked deſign abled prive from of this his moſt ſpeciall inſtrument: this is the united of this crafty <hi>Pbiſcy.</hi>
+            </p>
+            <p>And if you interpoſe not with your wiſdome, he will preyaile to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of this in diſtreſſed I rierd for a few houſes more in this ungodly worke (falſly and deceitfully called the building of Gods Houſe) will put him paſt hope of recovery therefore admit of no delys <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Pity</hi> will help <hi>you,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <hi>hope:</hi> will thruſt this where <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cowrhe the ſtayes, and out of doores, and then I ſhall not doubt but ſome good may be done; come, pray ſet our hands ſuch ſuffer him not to ſpeake a word for he will delude a whole na<g ref="char:EOLhyphen"/>tion, and make you believe no man ſo godly or ſo charitable <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it is, you have had ſo good enter<g ref="char:EOLhyphen"/>tainement heere; you are loth to depart; ſtand too <hi>Piety; ſuſtice,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where are you now, you will ſtill befoole your ſelfe down will Him;—ſo out with him, and I'e ſhut the doore <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ough I hope; or his entrance there any more:—how this and ungodly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> has made us all ſweat; <hi>ſuperſtition,</hi> I thought you would <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any zealous, as to have helpt him, but an now ſtay and ſee what uſage your woefull friend here finds a<g ref="char:EOLhyphen"/>mongſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Love: Conſcience,</hi> Let us <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> while, I judge your violence againſt <hi>Pollicy,</hi> (being unexpected) hath put out diſtreſted Friend here, into a kind of extacie; let us obſerve the iſſue: I doubt not after this wee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all find him ſencible of his diſtemper, draw the Curtaines cloſe; if he reſt twill do well.</p>
+            <pb n="6" facs="tcp:160013:6"/>
+            <p>
+               <hi>Iuſtice, Conſcience,</hi> I cannot but approve your faithfulneſſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your friend, in the courſe you have taken againſt <hi>Pollicy</hi> I muſt con<g ref="char:EOLhyphen"/>ſeſſe, had not you by your pertinent diſcourſe, kept my eyes open his ſubtill ſpeech had deluded me, as I ſee it did <hi>Patience,</hi> who was at the doore to be gon, but it is: better as it is: let us conſider what is to be done.</p>
+            <p>
+               <hi>Truth,</hi> As old as I am, I confeſſe ingeneouſly I never yee was called to ſuch a conſultation<g ref="char:punc">▪</g> the diſtemper is of ſuch a nature as I have not ſeene the like, that a man ſhould diſcourſe, labour, ſtuddy, watch, write, and preach, and all theſe to the continuall vexation of honeſt, religious, peaceable people, and yet ſeemeth not to be ſenci<g ref="char:EOLhyphen"/>ble of any evill he doth therein: though nothing in it ſelfe be more oppoſite to the true end of labour, ſtudy, writing, or preaching, and what to adviſe in this caſe, I pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e I am at preſent to ſeeke.</p>
+            <p>
+               <hi>Juſtice.</hi> What think you of an iſſue, if the humors be not too much ſetled, they may gently, and by degrees be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o drawne from him.</p>
+            <p>
+               <hi>Patience,</hi> Happily I may ſpeake ſomewhat properly of his diſeaſe, becauſe I have had much to doe with him of late: and it will be a good ſtep to his cure if we can but di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cover his diſeaſe: All my rea<g ref="char:EOLhyphen"/>ding will not furniſh me with any definition, or denomination I muſt therefore take the boldneſſe to tranſgreſſe our common rules, and for your information; coyne a name and call it <hi>a fiſtul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the brayne:</hi> whoſe property is to open and vent it ſelfe once a month, and though the matter it iſſues, be to a ſound noſtrill the moſt intollerably odious that can be imagined, yet to himſelf it is not ſo offenſive; and the great profit he makes thereof, makes him bear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the ſtinke thereof.</p>
+            <p>For to ſuch as this man is whom you call <hi>ſuperſtition,</hi> nothing fells at a deerer rate nothing is more exceptable, it is their meat and drink, without it they are as dead men, with it, who but they: and this makes him inſtead of ſeeking after a remedy, to ſtuddy how to increaſe the humour, and nothing ſhames or grieves him more then when it flowes not month<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y? having proclaimed a market once every month: as beggers live by their ſores ſo doth he by this <hi>fiſtul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> cure him and you undoe him: a <hi>Phiſitian</hi> is as death to him, divers have undertaken him but all his ſtudy is how to miſcheife them and he only, is welcome, that feeds his humour: I think he ſpeakes<g ref="char:punc">▪</g> pray let's liſten.</p>
+            <pb n="7" facs="tcp:160013:6"/>
+            <p>Mr. <hi>Edwards,</hi> Welcome Sir, you are very kindly welcome, pray ſit downe, I ſee you faithfully labour, and take pain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, in the ſwee<g ref="char:EOLhyphen"/>ping of Gods houſe; come what Rubbiſh have you diſcovered—ſo, I have heard indeed, he is a ſtirring <hi>Sectarie,</hi> but have you nothing elſe againſt him, but <hi>Rebaptizing</hi> and <hi>generall redempſion,</hi> I had as <note place="margin">His In<g ref="char:EOLhyphen"/>telligen<g ref="char:EOLhyphen"/>cers. are here ſup<g ref="char:EOLhyphen"/>poſed to bring him informati<g ref="char:EOLhyphen"/>ons.</note> much before; and have publiſht it, with as much reproach as I could and yet I heare their numbers <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, is there none amongſt them, adicted to drunkenneſſe. or whoredome, or theivery—come, ſpeak all you have, I can not be my ſelfe in every place, if you bring me not matter to reproach them and they thrive and increaſe, the fault's you<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and not mine—A <hi>Tayler and Porter Preach,</hi> whats this now a dayes? tis nothing twill doe nothing; they are heard with as much reſpect as I am: for ſhame abroad againe, and bring ſome ex<g ref="char:EOLhyphen"/>treo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinary <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or all our labours loſt?</p>
+            <p>O tis <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>—you ſpake with him your ſelfe you ſay, and provok't him to diſcourſe all you could; <hi>what,</hi> and bring away not<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing? D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vil<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> indeed; ask't two queſtions, for your one; go, you are ſimple, and for want of wit, and diligence, the Secta<g ref="char:EOLhyphen"/>ries increaſe dayly, and will doe except you bring ſomething day<g ref="char:EOLhyphen"/>ly for me to make them odions withall; goe; mend for ſhame, and let not them out ſtrip you.</p>
+            <p>So, tis well you are come—I am almoſt out of breath<g ref="char:punc">▪</g> with chi<g ref="char:EOLhyphen"/>ding the ſimplicity of thoſe I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mploy as intelligencers:—Your kinſman you ſay, dyn'de in your company; at your friends houſe, very familiar you were, and merry; he ſuſpecting nothing, but friendſhip from you (an excellent oppertunity) well, and there he ut<g ref="char:EOLhyphen"/>tered the words in your note, which you ſay, you can ſafely ſweare to—<hi>Y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> you did ſay you could ſweare to it? and why ſhould you now ſcruple it, ſince you preſume it is truth? Well leave me your note.</p>
+            <p>I ſhall now pay this great Favouro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te of the Sectaries, your note ſhall not be loſt, nor a little of it, never feare it: pray be continu<g ref="char:EOLhyphen"/>ally watchfull in this great worke, you know your labour ſhall not be loſt.</p>
+            <p>I thought I ſhould have ſeen nobody to day: I am glad yet you have not forgot the worke: A great meeting you ſay, and a P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tition read, ſomewhat tending to liberty of conſcience; and they talk of the
+<pb n="8" facs="tcp:160013:7"/> King, and the Parliament, and aſſembly, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and you were the<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> all the while but which is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without ſome par<g ref="char:EOLhyphen"/>ticular words that can be taken hold off.</p>
+            <p>Ile not give a ruſh for ſuch informations can you make me believe ſo many Sectaries could be together, and nothing to be, taken hold off; away for ſhame, be ſure you <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> next meeting and take ſomebody with you, that is able to bring away ſomewhat t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> purpoſe; begon I ſay.</p>
+            <p>O come I have bcom ſo vext, <hi>men</hi> bring a great deale of circum<g ref="char:EOLhyphen"/>ſtance, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſubſtance at all: What is it you have got:—Mr. <hi>Peters</hi> you <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpoke the words in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paper: you are ſure of it: and M <hi>Iohn Sigdmen</hi> theſe in this paper: and Mr. <hi>Kiffen</hi> theſe: this the copy of a letter written from the North: A woman dipt, and dyed tenne daies after: <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is the parties name that dip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her: An Anabaptiſts wife <hi>very well in health,</hi> and in five daies dead of the Plague: ſo, you have no more you ſay; truly yee have done very commendably; never feare the loſſe of your trade.</p>
+            <p>Ile take a care, ſome friends I have ſhall be better to you then twiſe your trade: O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ck, I would not for any thing you had forgot it: is that active youth (ſay you ſuſpected to be a J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſuite; you ſay you have ſtrong preſumption of it; and what is ſaid by <hi>him</hi> you <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot on</hi>—How an Atheiſt and blaſphemer—and the other a drinker, and looſe com<g ref="char:EOLhyphen"/>panion: truly I am glad I know it; if I doe not ſet them out to the <hi>life;</hi> let me Periſh: heres matter worth the publiſhing: this will be welcome newes to my deere friend <hi>Pollicy,</hi> who is now ſetting the greater wheeles a going, and hath prevailed very farre already; nor doe I doubt, but all will be as he and I doe wiſh; but I muſt be carefull to keep all cloſe from my buſie companion <hi>Conſcience,</hi> hee's one that knowes too much of my ſecrets, and I know not well how to be rid of him; I think <hi>Pollicy</hi> and I muſt cach him alone, and ſtifle him.</p>
+            <p>
+               <hi>Love,</hi> How ſtrangely his mind runnes upon the <hi>unhappy worke,</hi> he hath undertaken: if we interupt him not, he will ſpend all his ſpirits, and expire in this extacy: <hi>Conſcience,</hi> pray take hold on this occaſion, and ſpeake to him.</p>
+            <p>
+               <hi>Conſcience,</hi> Mr. <hi>Edwards,</hi> I know all your proceedings, obſerve all your waies, and have ever faithfully adviſed you for your good to
+<pb n="9" facs="tcp:160013:7"/> leave the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and to walk in the wiſh of <hi>Chriſt,</hi> but you are ſo farre from following my advice, that you lay plots to ſtifle me; but?</p>
+            <p>
+               <hi>Truth, Conſcience,</hi> ſave your labour: your voice no ſooner ſounded in his care, but he fell faſt a ſleep, tis wonder our ſad to con <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> but I hope the iſſue will be good.</p>
+            <p>
+               <hi>Iuſtice,</hi> Twere but juſt, he ſhould never wake; I never obſerve the moſt wicked man in the world, delight in ſo abominable a worke.</p>
+            <p>
+               <hi>Patience, Deare Juſtice,</hi> Let us take this opportunity, to conſult what may <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> done for his recovery? for that is now our worke.</p>
+            <p>
+               <hi>Piety,</hi> pray yee friends, bring the light and come hither, I begin to ſmell the moſt filthy ſavour that ever was ſmel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſee, ſee, what a black froth his mouth ſomes with all; ſee; it riſeth more and more; ſome thing muſt be brought to receive it from him: out upon'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I am not able to hold the light any longer, if it continue thus, we ſhall not be able <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o endure the roome.</p>
+            <p>
+               <hi>Superſtition,</hi> Pray let me doe that office, I wiſh I might never ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a better ſent, I am ſure ſome of you ſmell of ranke her eſie, I mi<g ref="char:EOLhyphen"/>ſtake, not.</p>
+            <p>
+               <hi>Truth,</hi> Wee muſt beare with can weakneſſe, till you are better in<g ref="char:EOLhyphen"/>formed, <hi>how <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hunda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tly it flowes:</hi> he is now extreame weake: but were he in his wonted ſtrength, with this moſt <hi>filſby Gangreno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> matter, would he mix his inke, and whilſt it were even hot, and boyling; fall to writing as he hath done lately, ſome huge volumne; with which he poyſons the ſpirits of thouſands (otherwiſe) wells minded people; and fils them with a violent, muſterfull diſpoſition, with which they goe up and downe, vexing and moleſting all they meet, if any man refuſe to doe as they would have them, in the worſhip of God (though never ſo peaceable and well minded) him they revile, at him they r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lle, call him Anabaptiſt, Independent, Browniſt, Sneker. Ant<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an: worry and vex him, by all the waies and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ei next they can <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Migiſtrate, and rude people, to wearie them out of all ſocietyear? and will joyne with their owne enemies, to their owne ruine, rather then theſe ſhould have a quiet life amongſt them: <hi>It flames extreamely</hi> ſtoop him a little (humillity is alwaies good) I feare it will bliſter his mouth, it is ſo hot, but I hope it will all come from him, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and then wee ſhall have no more to doe, but to get out the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gge for that muſt be done, other wiſe the humour will fill againe, and he will never be perfectly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>red.
+<pb n="10" facs="tcp:160013:8"/> 
+               <hi>Hope,</hi> Sir, the cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er begins to alter from its blackneſſe, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> red.</p>
+            <p>
+               <hi>Patience,</hi> There is now ſome hope of a good event: it doth not ſmell ſo ſtrongly:</p>
+            <p>
+               <hi>Love,</hi> Pray hold this ſoveraigne Pomander to his noſtrill, leſt his ſpirits faint.</p>
+            <p>
+               <hi>Piety,</hi> I ſhould be exceeding glad to ſee his recovery, which if he doe, truly <hi>Conſcience,</hi> you deſerve the greateſt thankes.</p>
+            <p>
+               <hi>Iuſtice,</hi> There comes now perfect blood, my o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inion is, wee muſt inſtantly proceed to open his head, and take cut the blader, and in roome thereof, to leave ſome ingredients, proper for rectify<g ref="char:EOLhyphen"/>ing the temper of the brain and to bring it into a good conſtitution. I have inſtruments ready, and he ſleeps very ſoundly.</p>
+            <p>
+               <hi>Love. Pate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce. Truth.</hi>Wee all agree: but let us be very tender: <hi>Superſtition,</hi> you had beſt withdraw a little, leſt you fall into a ſound, or your hand ſhake: give the light to <hi>Piety: Conſcience</hi> and <hi>Hope,</hi> lend us your helpe: who ſhould that be that knocks ſo loud, <hi>Conſcience,</hi> pray ſtep and ſee—</p>
+            <p>
+               <hi>Conſcience,</hi> What an inpudent wretch is this? who ſhould it be but <hi>Pollicy,</hi> returnd in a grave Doctors habit, pretending to be ſent hither, by a Colledge of friends, to lend his aſſiſtance: twas well I went to the doore, for he would have deceived any that had not knowne him ſo well as I, he was ſo like a Collegiate, ſure his <hi>familier</hi> tels him his agent is likely to be diſpoſſeſt; but I have ſent him packing, with a venge<g ref="char:EOLhyphen"/>ance; pray goe on with your worke.</p>
+            <p>
+               <hi>Juſtice,</hi> I pray <hi>bow him a little more to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-ward,</hi> ſo, give the pan to ſuperſtition, I am not able to ſtand neere it.</p>
+            <p>
+               <hi>Piety,</hi> Rather let it be burnt, for <hi>Superſtition</hi> is too much infected al<g ref="char:EOLhyphen"/>ready.</p>
+            <p>
+               <hi>Conſcience,</hi> By no meanes, Ile keep it untill my friend wakes, that he may ſee, what filthy matter, his head was ſtuft with all.</p>
+            <p>
+               <hi>Piety,</hi> It is well conſidered: and if he loath the avon himſelfe, his cure will the better appeare to us to be perfect.</p>
+            <p>
+               <hi>Love.</hi> Doe ye not lance too deep think you? pray be very carefull.</p>
+            <p>
+               <hi>Juſtice,</hi> Pray <hi>Piety</hi> hold the light neerer: <hi>come all hither,</hi> ſee what mighty large bag it is, I profeſſe I never ſaw the like—except in the late head of great <hi>C ANTERBVRY;</hi> but it was not diſcovered till after his death: but the ſavour of this is much worſe; what ſhall we doe with it,
+<pb n="11" facs="tcp:160013:8"/> now we have it out? ſure it is beſt to receive it, to ſhew him with the matter it contained, otherwiſe he will never beleeveth: and I pray be all ready, with your ſeverall ingredients to fill up the empty place, that the humours may be rectified; and that thence may iſſue forth, no more ſuch unſavory peſtilent matter, odiou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to good men, but ſuch as may bring honour to God, and peace to all good men: come let us ſee what wee have amongſt us, for this work will admit of no delay.</p>
+            <p>
+               <hi>Love,</hi> I have a moſt excellent powder, the maine agent therein, be<g ref="char:EOLhyphen"/>ing the eyes of <hi>Turtle doves:</hi> and the property thereof, is to expell all ſiniſter apprehenſions, and hard conſtructions of men and things.</p>
+            <p>
+               <hi>Juſtice,</hi> I have a balſome: approved by long experience, for the clen<g ref="char:EOLhyphen"/>ſing, and drying, of all violent, hot, and groſſe humours.</p>
+            <p>
+               <hi>Patience,</hi> I have found much profit, by carrying about me the well known plant, called Al-heaſe: and I judge it very uſefull in this cure.</p>
+            <p>
+               <hi>Tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, I have</hi> an ingredient, which though of aſtrange nature, yet without it, I am parſwaded the cure cannot be perfect: it is an extra<g ref="char:EOLhyphen"/>ction from the braine of a Serpent: which gives quickneſſe of appre<g ref="char:EOLhyphen"/>henſion and foreſight.</p>
+            <p>
+               <hi>Juſtice,</hi> I pray you truth be carefull you ecceed not the juſt proporti<g ref="char:EOLhyphen"/>on, becauſe if you ſhould, yould marre all: <hi>Hope,</hi> what think you of our courſe.</p>
+            <p>
+               <hi>Hope,</hi> I approve thereof, ſo farre as I underſtand: but itere is <hi>Piety,</hi> is better able to judge.</p>
+            <p>
+               <hi>Piety,</hi> I exceedingly approve of all: and if you pleaſe Ile mix them and work them into a body, and forme the ſame, fit for the place: and then <hi>Juſtice,</hi> when you pleaſe you may goe on with your worke.</p>
+            <p>
+               <hi>Iuſtice</hi> content:—ſo—tis very well he ſtirs not: Ile cloſe up all; and wee will all with draw, and leave him to reſt: for reſt now will be his beſt friend: <hi>Conſcience</hi> weele pray you to ſtay with him: if he ſtirr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> youle call us, wee be but in the next roome.</p>
+            <p>
+               <hi>Love,</hi> This <hi>Conſcience</hi> is of true temper to make a friend off, he nei<g ref="char:EOLunhyphen"/>ther flatters nor feares: no unkindneſſe alienates him, nor. dange<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſſeighes him, from doing the office of a true friend at all times: on would not be with uſ ſuch a friend, for any thing in the world: this di<g ref="char:EOLhyphen"/>ſtreſſed man hath extreamly abuſed him; and yet you ſet with what ſervency of affection he ſticks to him.</p>
+            <p>
+               <hi>Iuſtice,</hi> I know abudance of the name, and of his kindred, and truly all the generation of them are ſuch.</p>
+            <pb n="12" facs="tcp:160013:9"/>
+            <p>
+               <hi>Patience,</hi> Whence is hee, the a Scholler? What prote <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> 
+               <hi>Truth,</hi> I never <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſignes of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in him, not doth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> make any profeſſion (that I know of) of any one calling holy in uſe: but hens of a wounder publique ſpirit: you ſhall have him at all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tings, that are for publique good finding fault with the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of one ſon of men with want charity in another, with pride and diſdame in another, willing them they glory to be eſteemed Chriſtians and till: much of Religion, go much to Church hear and read, and pray, and faſt frequently becauſe theſe are the cheapeſt parts of Religion; but to <hi>deliver the captine, and ſet the oppreſſed free,</hi> or to <hi>feed the hungry, cloath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed,</hi> or <hi>viſit the Father leſſe and Widomes,</hi> to all theſe they are very backward, when they are called to theſe, one hath a great family, and there hath marrled awrfe another hath but one ſervant at home, &amp; can<g ref="char:EOLhyphen"/>not be ſpared from his wade, &amp; getting of mony; I ſays he, you are rare chriſtians that can about in this worlds goods, &amp; ſee your brother laek.</p>
+            <p>His dealing is ſo plaine, &amp; to the point; that very few regard his com<g ref="char:EOLhyphen"/>pany and that's the reaſon, thoſe great meetings produce ſo little good as they do, for without his company, you ſhall never ſee any effect wor<g ref="char:EOLhyphen"/>thy the name of Chriſtian: he hath had no breeding neither in the uni<g ref="char:EOLhyphen"/>verſities, or Ins of Court: never was a Courtier not Trauailer; &amp; yet he is ignorant of nothing &amp; ſpeaks very ſhrewdly to purpoſe, owneth e<g ref="char:EOLhyphen"/>very juſt publick cauſe, without reſpect to perſons of opinions: he will not weare finer cloathes, if you would give them to him gratie: &amp; yet to an ingenious &amp; vertuous man, there is not a more pleaſant companion.</p>
+            <p>
+               <hi>Hope,</hi> Pray yee, what Religion is he off.</p>
+            <p>
+               <hi>Truth,</hi> For matter of outward formes, he is very reſerved, as if he were not fully ſatiſfied, I have often heard him ſay, God a Spirit, and will be worſhipped in ſpirit and truth: but he profeſſeth himſelfe, to be clearely for liberty of worſhip; and the greateſt enemy to compul<g ref="char:EOLhyphen"/>ſion or reſtriction that can be; affirming there is no ſinne ſo unreaſona<g ref="char:EOLhyphen"/>ble or un-Chriſtian, as for one man (eſpecially one bring man) to perecute, puniſh, or moleſt another for matters of Religion or to make Lawes, concerning any thing ſupernaturall: he ſaies it proceeds not from any ſavour of Chriſtianity, that men doe ſo: but from an im<g ref="char:EOLhyphen"/>perious donſineering ſpirit that takes it in ſoule ſcome. that any man ſhould doe any thing. but by Licence from him: I aſſure yee <hi>Conſcince</hi> allowes no ſuch dealing; and this is the maine quarrell twixt him and our Patient Mr. <hi>Edwardse</hi> but I hope wee ſhall ſee them good friends againe.</p>
+            <pb n="13" facs="tcp:160013:9"/>
+            <p>
+               <hi>Superſtition,</hi> Well, if this man dye under your hande, your lives ſhall go for his: Ile take my oath, you are the cauſe of his death.</p>
+            <p>
+               <hi>Piety,</hi> Spare your teares, <hi>Superſtition,</hi> you ſhall find we have done him a good office, you will ſee him a new man: and your ſelle too Idcube not erelong,</p>
+            <p>
+               <hi>Conſcience,</hi> Hoe, friends, pray yee all come in quickly.</p>
+            <p>Whats the matter? <note place="margin">Love. Juſtice. &amp;c.</note>
+            </p>
+            <p>
+               <hi>Conſeience,</hi> Doe you ſee this poſture wherein he lyeth? thus he hath layne about a quarter of an houre, his lips moving his hands and eyes lifted up, juſt as if he were praying in the Pulpit.</p>
+            <p>
+               <hi>Hope,</hi> It is very wonderfull: <hi>He takes notice of nobody,</hi> what will be the iſſue? See, he now ſtrives as if he would raiſe himſelfe, as if his prayer were ended, and he were preparing to Preach; <hi>Conſcience,</hi> help to hold him up, and ſee what he will doe: certainly he ſuppoſeth him<g ref="char:EOLhyphen"/>ſelfe to be in ſome great preſence, for juſt thus is his manner at ſuch times—peace and liſten for he begins to ſpeake.</p>
+            <p>Mr. <hi>Edwards,</hi> Men of <hi>England,</hi> my purpoſe is not now (as for<g ref="char:EOLhyphen"/>merly) to promote my owne work: but to proſecute what is juſt and neceſſary, without reſpect of perſons, or opinions: which hath occaſio<g ref="char:EOLhyphen"/>ned me to make choice of this place of Scripture.</p>
+            <p>
+               <hi>The whole commandement is fulfilled in this one word, LOVE.</hi>
+            </p>
+            <p>It hath often come to my thoughts why the Apoſtle Saint <hi>John</hi> is called in a peculer manner, the Diſciple whom Jeſus loved; but it never made ſo deep impreſſion in me as at preſent: certainly there could he nothing more joyous to his own ſpirit, then to conſider it; and my heart at preſent panting after the reaſon thereof: tels me that <hi>John</hi> cer<g ref="char:EOLhyphen"/>tainly was of a mild, a loving, and tender diſpoſition, <hi>more eminently</hi> then any of the reſt; <hi>ſo ſoft,</hi> that our Saviour choſe his breſt, for a place of his repoſe: and I am ſtrengthened herein, becauſe I find it recorded of him, that when he was ſo old that he was hardly able to come in<g ref="char:EOLhyphen"/>to the ſpeaking place, or to ſpeake, he proſecuted this moſt bleſſed and amiable theame. <hi>little children love one anoher,</hi> repeating it often, <hi>little children love one another:</hi> as having throughly diſgeſted this leſſon of his Maſters: <hi>the whole commandement is fulfilled in this one word LOVE;</hi> Love is the true touch-ſtone of all Chriſtian performances, it inſtantly manifeſteth how things are; ſo much love, ſo much of God</p>
+            <pb n="14" facs="tcp:160013:10"/>
+            <p>It is the ſureſt guide in all private and publique undertakings; with<g ref="char:EOLhyphen"/>out a due regard to the rule of <hi>love,</hi> all things will goe wrong: obſerve it, &amp; it will be like the North pole to the Marriners, to guide you to the quiet harbour of juſtice and peace: it is a rule eaſie to be underſtood, the meaneſt capacity is capable thereof, none can excuſe themſelves that ſwarve from this rule.</p>
+            <p>If you would know your duty to God, it will tell you that in equi<g ref="char:EOLhyphen"/>ty you are to love, as he hath loved: hath he ſo loved, as to give himſelfe an offering and a ſacrifice for you, then ye ought to walke in love as Chriſt hath loved; would you know how you ſhould manifeſt your love to Chriſt? <hi>Love</hi> will ſet before you the ſick, the naked, the aged, and impotent; it will lead you to priſons, and houſes of diſtreſſe, and ſhew you the captives, the widowes and fatherleſſe Children, and it will aſſure you that in as much as you miniſtred to the neceſſities of theſe, you have done it unto him, but if you have this worlds goods, and ſee and ſuffer theſe, or any of theſe to lack, there is not the love of God in you.</p>
+            <p>Would you have a rule for your converſations? Why, <hi>the love of God which bringeth ſalvation to all men, hath appeared teaching us to deny all ungodlineſſe and worldly luſts, and to live righteouſly, godly, and ſoberly in this preſent world:</hi> Are yee publique perſons? Are yee intruſted to judge righteouſly in all cauſes: <hi>Love</hi> is the beſt property even in a judge, for God is <hi>Love,</hi> who is the righteous judge of all the earth, and ſlayeth not the righteous with the wicked: <hi>Love</hi> (rightly ſo called) putteth no difference betweene high and low, rich and poore, but loveth all men (as they are men) alike: but the proper object of <hi>Love</hi> is vertue, the more vertuous, the more it loveth; the leſſe vertuous, the leſſe it loveth: what ſo ever <hi>juſtly</hi> deſerveth the name of infirmity, <hi>Love</hi> can beare with all: but it is contrary to its nature to beare with wickedneſſe, becauſe mercy to the wicked, tends to the ruine of the juſt, and ſo becomes the greateſt cruelty: <hi>Love</hi> is juſt, as God is; ſpares not the greateſt, for his greatneſſe, nor the wealthy for his money, nor any for any by reſpect; ſo that hold but up your love to God, and you can never be partiall in judgement.</p>
+            <p>
+               <hi>Love</hi> doth as it would be done unto, in which reſpect it is a motive to the compleat performance of truſt: for would it not grieve you to have your love abuſed, in the truſt you have given for your good: doubt<g ref="char:EOLhyphen"/>leſſe it would? Why then (ſayes <hi>Love)</hi> grieve not thoſe that have loved
+<pb n="15" facs="tcp:160013:10"/> and truſted you: but be watchfull for their ſafety; tender of their free<g ref="char:EOLhyphen"/>domes, and then you ſhall certainly reape the fruite of <hi>love,</hi> whihc is an aboundance of love and reall thankfulneſſe.</p>
+            <p>Are you in diſpute what you ſhall doe in matters of Religion take <hi>Love</hi> along with you, to light you through this laboriath, whence never any Authority returned without prejudice? Say now, is Religion of that nature that you can referre it to him (whom you muſt love) to ſet you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'es in ſuch ſort, as you can aſſure your ſelfe, you ſhall with<g ref="char:EOLhyphen"/>out ſinne obay theſe rulee.</p>
+            <p>Nay when your friend hath done all he can doe; are you not to fol<g ref="char:EOLhyphen"/>low your own underſt ending of the word of God &amp; not his? and if you doe not ſo, doe you not ſin? if ſo, how can any truſt Religion? And if none can muſt, none can be truſted? And love will never meddle with matters not intruſted, by way of injunction, but only by perſwaſion: whilſt we live here knowledge will be imperfect, and whileſt it is ſo, that which ſeemeth truth to one, ſeemeth an errour to another: If I now ſhall be ſo anadviſed, as to call him an heretique who differs from me, I doe but provoke him to call me ſo, for he is as confident of his, as I am of my judgement: and here the rule of <hi>Love</hi> is broken, that ought not to love in reference to opioion but according to vertue and godly<g ref="char:EOLhyphen"/>neſſe of converſation; for this were away otherwiſe, to bring all into confuſion, there being ſo many ſeverall opinions; if one ſhould revile and reproach another, with the names of Heredques and ſchiſmatiques, Anabaptiſt, Browniſt, Antinomian, Seeker, Sectarie, Presbyter, this tends to nothing but to devide the honeſt party, and to make way for your common enemy; for in whatſoever the true and evident rule of <hi>Love</hi> is broken, it tends to diſſolution, it being <hi>love</hi> that preſerveth all things.</p>
+            <p>Therefore my humble advice is in this great cauſe, (upon which more dependeth, then is preſently ſeen that you give not countenance to one before another, for that begets a high conceite in thoſe you fa<g ref="char:EOLhyphen"/>vour, and makes them diſpiſe all others, though they may be as nigh the truth as thoſe; in the one you be get pride, in the other feare; the fruit of both being the worſt that can come to any people; none are now infallible, truth and errour are two eaſily miſtaken; but <hi>love;</hi> is eaſily underſtood; to doe as you would be done unto, is a rule generally a<g ref="char:EOLhyphen"/>greed on.</p>
+            <p>Let thoſe that conceive they can juſtly ſubmit their conſciences to
+<pb n="16" facs="tcp:160013:11"/> others arbitration in the worſhip of God, give in their names for them<g ref="char:EOLhyphen"/>ſelves and the places they repreſent; I beleeve upon a little conſideration few would be found; tis not what formerly hath been done, but what may juſtly be done, that is to beare ſway with all true reformers; No man hath been more earneſt then I, for compelling all to uniformity and for puniſhment of all contrary practiſers, but I now ſee my errour; and will do all I can to make amends for the evill <hi>I</hi> have done; the books <hi>I</hi> have written, <hi>I</hi> will burne with my owne hand: for <hi>I</hi> judge no opinion ſo evill as moleſtation for Religion.</p>
+            <p>What <hi>I</hi> have in hand, ſhall never ſee the light, becauſe <hi>I</hi> now ſee it to be a work of darkneſſe, and <hi>I</hi> exceedingly rejoyce that <hi>I</hi> have this oppertunity to declare thus much before you: if ever men ſhall kindly be brought to be of one mind, <hi>I</hi> ſee it muſt be by liberty of diſcourſe, and liberty of writing; we muſt not pretend to more infallible certen<g ref="char:EOLhyphen"/>ly then other men, this diſtinction of Clergy and layety, how I loath it, Ile no longer abuſe the world therewith, nor with any thing apper<g ref="char:EOLhyphen"/>taining there unto, I will henceforth magnifie nothing but love: I am the devoted ſervant of <hi>Love,</hi> and his lovely companions, <hi>Iuſtice, Puti<g ref="char:EOLhyphen"/>ence, truth, Piety.</hi> and <hi>Conſcience,</hi> ſhall be my fortreſſe to defend me from the wiles and force of Machiavilian <hi>Pollicy: O Love</hi> I how thou haſt melted me, how thou haſt refined me, and made me all new; per<g ref="char:EOLhyphen"/>fect thy worke O! <hi>Love,</hi> that <hi>I</hi> may become all <hi>love,</hi> and nothing but <hi>love.</hi>
+            </p>
+            <p>
+               <hi>Piety,</hi> Here is a happy change indeed: certainly the cure is abſo<g ref="char:EOLhyphen"/>lute, we have great comfort of our poore indeavours: how his diſcourſe fell at laſt from the publique to his particular content: my advice is, that wee all ſilently depart, and let all things be removed as if no man had been here: as for you <hi>Conſcience, I</hi> know you will not leave him, and when he wakes, your preſence doubtleſſe will be moſt acceptable.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
